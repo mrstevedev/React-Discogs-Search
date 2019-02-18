@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Discogs-Search/precache-manifest.97a5c6e2a620ae4442baf6df0afa0edd.js"
+  "/sp/react/react-discogs-search/precache-manifest.077ca2280710580bece64a8ae2062a56.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/React-Discogs-Search/index.html", {
+workbox.routing.registerNavigationRoute("/sp/react/react-discogs-search/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
