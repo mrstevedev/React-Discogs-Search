@@ -1,7 +1,7 @@
 {
   "main.css": "/React-Discogs-Search/static/css/main.d3857eb5.chunk.css",
-  "main.js": "/React-Discogs-Search/static/js/main.eb3da3ea.chunk.js",
-  "main.js.map": "/React-Discogs-Search/static/js/main.eb3da3ea.chunk.js.map",
+  "main.js": "/React-Discogs-Search/static/js/main.71f8fb6d.chunk.js",
+  "main.js.map": "/React-Discogs-Search/static/js/main.71f8fb6d.chunk.js.map",
   "static/js/1.232b525c.chunk.js": "/React-Discogs-Search/static/js/1.232b525c.chunk.js",
   "static/js/1.232b525c.chunk.js.map": "/React-Discogs-Search/static/js/1.232b525c.chunk.js.map",
   "runtime~main.js": "/React-Discogs-Search/static/js/runtime~main.34782327.js",
@@ -10,6 +10,6 @@
   "static/media/App.css": "/React-Discogs-Search/static/media/search.a60cc540.svg",
   "static/css/main.d3857eb5.chunk.css.map": "/React-Discogs-Search/static/css/main.d3857eb5.chunk.css.map",
   "index.html": "/React-Discogs-Search/index.html",
-  "precache-manifest.d33df267627fbcaed159da367c52d09f.js": "/React-Discogs-Search/precache-manifest.d33df267627fbcaed159da367c52d09f.js",
+  "precache-manifest.5f2814ebb388dad1ae8615ee4599e31c.js": "/React-Discogs-Search/precache-manifest.5f2814ebb388dad1ae8615ee4599e31c.js",
   "service-worker.js": "/React-Discogs-Search/service-worker.js"
 }
