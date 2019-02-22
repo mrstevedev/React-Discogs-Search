@@ -1,15 +1,16 @@
 {
-  "main.css": "/sp/react/react-discogs-search/static/css/main.d5aea91b.chunk.css",
-  "main.js": "/sp/react/react-discogs-search/static/js/main.dc88aced.chunk.js",
-  "main.js.map": "/sp/react/react-discogs-search/static/js/main.dc88aced.chunk.js.map",
-  "static/js/1.232b525c.chunk.js": "/sp/react/react-discogs-search/static/js/1.232b525c.chunk.js",
-  "static/js/1.232b525c.chunk.js.map": "/sp/react/react-discogs-search/static/js/1.232b525c.chunk.js.map",
+  "main.css": "/sp/react/react-discogs-search/static/css/main.0310d5f3.chunk.css",
+  "main.js": "/sp/react/react-discogs-search/static/js/main.12f22408.chunk.js",
+  "main.js.map": "/sp/react/react-discogs-search/static/js/main.12f22408.chunk.js.map",
+  "static/js/1.22ad37e0.chunk.js": "/sp/react/react-discogs-search/static/js/1.22ad37e0.chunk.js",
+  "static/js/1.22ad37e0.chunk.js.map": "/sp/react/react-discogs-search/static/js/1.22ad37e0.chunk.js.map",
   "runtime~main.js": "/sp/react/react-discogs-search/static/js/runtime~main.5efb171b.js",
   "runtime~main.js.map": "/sp/react/react-discogs-search/static/js/runtime~main.5efb171b.js.map",
   "static/media/logo.svg": "/sp/react/react-discogs-search/static/media/logo.e25ba34d.svg",
+  "static/media/index.css": "/sp/react/react-discogs-search/static/media/HelveticaNeueBold.e1b7f8b1.ttf",
   "static/media/App.css": "/sp/react/react-discogs-search/static/media/search.a60cc540.svg",
-  "static/css/main.d5aea91b.chunk.css.map": "/sp/react/react-discogs-search/static/css/main.d5aea91b.chunk.css.map",
+  "static/css/main.0310d5f3.chunk.css.map": "/sp/react/react-discogs-search/static/css/main.0310d5f3.chunk.css.map",
   "index.html": "/sp/react/react-discogs-search/index.html",
-  "precache-manifest.077ca2280710580bece64a8ae2062a56.js": "/sp/react/react-discogs-search/precache-manifest.077ca2280710580bece64a8ae2062a56.js",
+  "precache-manifest.32bc50658f03573939ac6c08e191e237.js": "/sp/react/react-discogs-search/precache-manifest.32bc50658f03573939ac6c08e191e237.js",
   "service-worker.js": "/sp/react/react-discogs-search/service-worker.js"
 }
