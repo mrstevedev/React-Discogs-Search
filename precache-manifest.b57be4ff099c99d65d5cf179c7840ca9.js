@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e0a9286f51329040a498",
-    "url": "/sp/react/react-discogs-search/static/css/main.ac89ba50.chunk.css"
+    "revision": "4e3181f8022d346d3a3b",
+    "url": "/sp/react/react-discogs-search/static/css/main.a3b2af45.chunk.css"
   },
   {
-    "revision": "e0a9286f51329040a498",
-    "url": "/sp/react/react-discogs-search/static/js/main.e0a9286f.chunk.js"
+    "revision": "4e3181f8022d346d3a3b",
+    "url": "/sp/react/react-discogs-search/static/js/main.4e3181f8.chunk.js"
   },
   {
-    "revision": "46191bfdb994199ccb3b",
-    "url": "/sp/react/react-discogs-search/static/js/1.46191bfd.chunk.js"
+    "revision": "bdccd56c5b422e649dc4",
+    "url": "/sp/react/react-discogs-search/static/js/1.bdccd56c.chunk.js"
   },
   {
     "revision": "5efb171b7292e6aec5df",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/sp/react/react-discogs-search/static/media/search.a60cc540.svg"
   },
   {
-    "revision": "473ed1e0f374181eb7b95257e7706197",
+    "revision": "757d23c038ee198f0338b60dd387e1af",
     "url": "/sp/react/react-discogs-search/index.html"
   }
 ];
