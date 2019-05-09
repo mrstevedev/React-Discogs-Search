@@ -1,7 +1,7 @@
 {
-  "main.css": "/sp/react/react-discogs-search/static/css/main.0552d300.chunk.css",
-  "main.js": "/sp/react/react-discogs-search/static/js/main.9c300e9d.chunk.js",
-  "main.js.map": "/sp/react/react-discogs-search/static/js/main.9c300e9d.chunk.js.map",
+  "main.css": "/sp/react/react-discogs-search/static/css/main.55482330.chunk.css",
+  "main.js": "/sp/react/react-discogs-search/static/js/main.b0cee0c1.chunk.js",
+  "main.js.map": "/sp/react/react-discogs-search/static/js/main.b0cee0c1.chunk.js.map",
   "static/js/1.c00f1c14.chunk.js": "/sp/react/react-discogs-search/static/js/1.c00f1c14.chunk.js",
   "static/js/1.c00f1c14.chunk.js.map": "/sp/react/react-discogs-search/static/js/1.c00f1c14.chunk.js.map",
   "runtime~main.js": "/sp/react/react-discogs-search/static/js/runtime~main.5efb171b.js",
@@ -9,8 +9,8 @@
   "static/media/logo.svg": "/sp/react/react-discogs-search/static/media/logo.e25ba34d.svg",
   "static/media/index.css": "/sp/react/react-discogs-search/static/media/HelveticaNeueBold.e1b7f8b1.ttf",
   "static/media/App.css": "/sp/react/react-discogs-search/static/media/search.a60cc540.svg",
-  "static/css/main.0552d300.chunk.css.map": "/sp/react/react-discogs-search/static/css/main.0552d300.chunk.css.map",
+  "static/css/main.55482330.chunk.css.map": "/sp/react/react-discogs-search/static/css/main.55482330.chunk.css.map",
   "index.html": "/sp/react/react-discogs-search/index.html",
-  "precache-manifest.b002c3006d0d1138a604393fad574ddd.js": "/sp/react/react-discogs-search/precache-manifest.b002c3006d0d1138a604393fad574ddd.js",
+  "precache-manifest.efb3478d3a386572e5b29a96a2a8f3fa.js": "/sp/react/react-discogs-search/precache-manifest.efb3478d3a386572e5b29a96a2a8f3fa.js",
   "service-worker.js": "/sp/react/react-discogs-search/service-worker.js"
 }

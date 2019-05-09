@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c300e9de6e053a93f95",
-    "url": "/sp/react/react-discogs-search/static/css/main.0552d300.chunk.css"
+    "revision": "b0cee0c1d77eb03764e3",
+    "url": "/sp/react/react-discogs-search/static/css/main.55482330.chunk.css"
   },
   {
-    "revision": "9c300e9de6e053a93f95",
-    "url": "/sp/react/react-discogs-search/static/js/main.9c300e9d.chunk.js"
+    "revision": "b0cee0c1d77eb03764e3",
+    "url": "/sp/react/react-discogs-search/static/js/main.b0cee0c1.chunk.js"
   },
   {
     "revision": "c00f1c1412f9a1ededb5",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/sp/react/react-discogs-search/static/media/HelveticaNeueBold.02183900.woff"
   },
   {
-    "revision": "00f8d8ab4d3495f7c3ea6bca6f9f9e16",
-    "url": "/sp/react/react-discogs-search/static/media/HelveticaNeueBlackCond.00f8d8ab.eot"
-  },
-  {
     "revision": "e2004f3b409ae9a97f4c6fde34447a16",
     "url": "/sp/react/react-discogs-search/static/media/HelveticaNeueBlackCond.e2004f3b.ttf"
+  },
+  {
+    "revision": "00f8d8ab4d3495f7c3ea6bca6f9f9e16",
+    "url": "/sp/react/react-discogs-search/static/media/HelveticaNeueBlackCond.00f8d8ab.eot"
   },
   {
     "revision": "92f689c73c8c32164fb5a80129f73747",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/sp/react/react-discogs-search/static/media/search.a60cc540.svg"
   },
   {
-    "revision": "91e32a93e620291afb1af5c3af119f23",
+    "revision": "77f15a9c0afa286cb2a5639f33193d05",
     "url": "/sp/react/react-discogs-search/index.html"
   }
 ];
